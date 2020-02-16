@@ -8,7 +8,7 @@ pdsnd_github
 learning git and github
 
 ### Files used
-bikeshare.py
+bikeshare.py, data1.xlsx
 
 ### Credits
 none so far
