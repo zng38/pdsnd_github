@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+16.2.2020 Andreas Friedberger: First creation of Readme.md
 
 ### Project Title
-Replace the Project Title
+pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+learning git and github
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+none so far
